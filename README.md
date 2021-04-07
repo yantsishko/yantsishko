@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Yan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yantsishko&show_icons=true)
+![Yan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yantsishko&show_icons=true&include_all_commits=true)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yantsishko&repo=ssr-demo-expressjs)](https://github.com/yantsishko/ssr-demo-expressjs)
 
